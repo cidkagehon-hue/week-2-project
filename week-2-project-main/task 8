@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Favourites</title>
+</head>
+<body>
+  <h1>My Favourites</h1>
+
+  <div class="card">
+    <h2>Favourite Book: The 48 Laws of Power</h2>
+    <img src="https://picsum.photos/300/200?random=1"
+         alt="Book cover art for The 48 Laws of Power by Robert Greene"
+         width="300" height="200">
+    <p>Robert Greene's <em>The 48 Laws of Power</em> breaks down historical
+       strategies of influence and control into 48 distinct principles.
+       It's a <strong>study of power dynamics through the lens of history</strong>,
+       drawing on figures from Machiavelli to Sun Tzu.</p>
+    <a href="https://en.wikipedia.org/wiki/The_48_Laws_of_Power"
+       target="_blank" rel="noopener noreferrer">Read more on Wikipedia</a>
+  </div>
+
+  <div class="card">
+    <h2>Favourite Show: Rick and Morty</h2>
+    <img src="https://picsum.photos/300/200?random=2"
+         alt="Illustration inspired by the sci-fi animated series Rick and Morty"
+         width="300" height="200">
+    <p><em>Rick and Morty</em> follows a cynical genius scientist and his
+       anxious grandson on interdimensional adventures. It blends
+       <strong>absurdist sci-fi comedy with surprisingly dark existential themes</strong>.</p>
+    <a href="https://en.wikipedia.org/wiki/Rick_and_Morty"
+       target="_blank" rel="noopener noreferrer">Read more on Wikipedia</a>
+  </div>
+
+  <div class="card">
+    <h2>Favourite Website: Webtoon</h2>
+    <img src="https://picsum.photos/300/200?random=3"
+         alt="A phone screen displaying a webcomic reading app"
+         width="300" height="200">
+    <p>Webtoon is a free platform hosting officially licensed manhwa and
+       webcomics from creators worldwide. It's <strong>where a lot of
+       manhwa and manhua get their official English releases</strong>,
+       with new chapters updated on a regular schedule.</p>
+    <a href="https://www.webtoons.com"
+       target="_blank" rel="noopener noreferrer">Visit Webtoon</a>
+  </div>
+</body>
+</html>

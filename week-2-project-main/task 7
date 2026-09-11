@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tsuivan(Mongolian food)</title>
+</head>
+<body>
+  <h1>Tsuivan(Mongolian food)</h1>
+  <h2>What You Need</h2>
+  <ul>
+    <li>2 cups of flour</li>
+    <li>meat, potato, carrots</li>
+    <li>Mongolian seasoning</li>
+    <li>Sesame oil</li>
+    <li>add and kimchi if you like</li>
+  </ul>
+  <h2>Steps</h2>
+  <ol>
+    <li>Cook the meat and let it cool slightly.</li>
+    <li>Add the vegtables.</li>
+    <li><strong>Warning: use medium heat</strong> when frying the them all.</li>
+    <li>add the noodles</li>
+    <li>Add <em>salt</em> and sesame oil, then mix everything together.</li>
+  </ol>
+</body>
+</html>
