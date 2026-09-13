@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Web Programming FAQ</title></head>
+<body>
+<section id="faq">
+  <h2>Frequently Asked Questions</h2>
+
+  <details open>
+    <summary>What is HTML?</summary>
+    <p>HTML (HyperText Markup Language) is the standard language for
+       structuring content on web pages.</p>
+  </details>
+
+  <details>
+    <summary>What is the difference between &lt;section&gt; and &lt;article&gt;?</summary>
+    <p>A <strong>section</strong> groups related content in context. An
+       <strong>article</strong> stands alone and can be published independently.</p>
+  </details>
+
+  <details>
+    <summary>Why is the alt attribute important?</summary>
+    <p>It gives images alternative text for screen readers and for when
+       the image fails to load.</p>
+  </details>
+
+  <details>
+    <summary>What does DOCTYPE do?</summary>
+    <p>&lt;!DOCTYPE html&gt; tells the browser to use standards mode for
+       consistent rendering.</p>
+  </details>
+</section>
+</body>
+</html>
