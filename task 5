@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lee Somin — Portfolio</title>
+</head>
+<body>
+  <header>
+    <h1>Lee Somin</h1>
+    <nav aria-label="Main navigation">
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About Me</h2>
+      <figure>
+        <img src="https://picsum.photos/200/200?random=21"
+             alt="Lee Somin, CS student at Gachon University"
+             width="200" height="200">
+        <figcaption>Computer Science, Gachon University, Class of 2028</figcaption>
+      </figure>
+      <p>I am a student at <abbr title="Gachon University">GU</abbr>
+         focused on <mark>front-end development</mark> and accessibility.
+         I care about writing <strong>clean, semantic</strong> HTML.</p>
+    </section>
+
+    <section id="projects">
+      <h2>My Projects</h2>
+      <article>
+        <header>
+          <h3>Campus Events Tracker</h3>
+          <p>Completed: <time datetime="2026-08">August 2026</time></p>
+        </header>
+        <p>A small site listing campus events, built with semantic
+           <code>HTML5</code> elements like <code>header</code>, <code>main</code>,
+           <code>article</code>, and <code>aside</code>.</p>
+      </article>
+    </section>
+
+    <aside id="skills" aria-label="Skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>HTML5 &amp; Semantic markup</li>
+        <li>CSS3 &amp; Flexbox</li>
+        <li>JavaScript
