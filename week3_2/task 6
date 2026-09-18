@@ -46,7 +46,7 @@
 </style>
 </head>
 <body>
-  <h1>My Skills</h1>
+  <h1>Ankhaas Skills</h1>
   <div class="grid">
     <div class="card" data-icon="🌐">HTML5 — Structure</div>
     <div class="card" data-icon="🎨">CSS3 — Styling</div>
